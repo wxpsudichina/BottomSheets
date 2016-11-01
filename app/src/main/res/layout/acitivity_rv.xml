@@ -16,13 +16,12 @@
         android:background="#ff0001"
         android:gravity="center"
         android:text=" 点击 or 拖动 我 "
-        android:textColor="@android:color/white"/>
+        android:textColor="@android:color/white" />
 
     <View
         android:id="@+id/blackview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-    </View>
+        android:layout_height="match_parent"></View>
 
     <android.support.v7.widget.RecyclerView
         xmlns:android="http://schemas.android.com/apk/res/android"
